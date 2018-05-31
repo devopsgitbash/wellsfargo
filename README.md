@@ -1,2 +1,0 @@
-# wellsfargo
-banking company
